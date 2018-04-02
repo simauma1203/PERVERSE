@@ -1,0 +1,44 @@
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/tamaron1203/Desktop/pico820-master/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/tamaron1203/Desktop/pico820-master/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/UnityEngine.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/UnityEditor.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/nunit.framework.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tamaron1203/Desktop/pico820-master/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/tamaron1203/Desktop/last ganbaru/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/tamaron1203/Desktop/last ganbaru/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/UnityEngine.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/UnityEditor.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/nunit.framework.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tamaron1203/Desktop/last ganbaru/Temp/bin/Debug/Mono.Cecil.Mdb.dll
